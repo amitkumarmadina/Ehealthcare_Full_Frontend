@@ -200,7 +200,7 @@ export default function Footer() {
                 </div>
                 <div className="flex items-center gap-2">
                   <span></span>
-                  <a href="https://wa.me/919709899466" target="_blank" rel="noreferrer"
+                  <a href="https://wa.me/919304787267" target="_blank" rel="noreferrer"
                     className="hover:text-indigo-400 transition">
                     WhatsApp Us
                   </a>
