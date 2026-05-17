@@ -160,7 +160,7 @@ export default function Footer() {
                 </a>
 
                 {/* WHATSAPP */}
-                <a href="https://wa.me/919709899466" target="_blank" rel="noreferrer"
+                <a href="https://wa.me/919304787267" target="_blank" rel="noreferrer"
                   className="w-10 h-10 bg-[#25D366] rounded-full flex items-center justify-center text-white hover:scale-110 transition shadow-lg"
                   aria-label="WhatsApp">
                   <svg className="w-6 h-6 fill-current" viewBox="0 0 24 24">
