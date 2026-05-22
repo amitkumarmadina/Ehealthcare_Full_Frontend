@@ -157,7 +157,7 @@ VITE_API_BASE_URL=http://localhost:5000/api
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/amitkumarmadina/Ehealthcare_Full_Frontend
 cd your-repository-name
 ```
 
@@ -191,6 +191,11 @@ node_modules
 uploads
 dist
 ```
+---
+
+# 🔗 Project Q/A Guide
+
+https://drive.google.com/file/d/1Xx9i_4O-qSKDX1kRJj0opPQreq5enrEa/view?usp=drivesdk
 
 ---
 
