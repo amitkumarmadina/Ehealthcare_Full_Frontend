@@ -7,13 +7,13 @@ An AI-powered full-stack MERN healthcare platform that connects patients with do
 ## 🚀 Live Demo
 
 ### Frontend
-https://svasthyaconnect.vercel.app
+[🌐 Live Frontend](https://svasthyaconnect.vercel.app)
 
 ### Backend
-https://ehealthcare-full-backend-1.onrender.com
+[⚙️ Backend API](https://ehealthcare-full-backend-1.onrender.com)
 
 ### Health Check
-https://ehealthcare-full-backend-1.onrender.com/api/health
+[🩺 API Health Check](https://ehealthcare-full-backend-1.onrender.com/api/health)
 
 ---
 
@@ -30,6 +30,38 @@ https://ehealthcare-full-backend-1.onrender.com/api/health
 - 🤖 AI Symptom Analysis
 - 🧠 AI Medical Report Analysis
 - 👤 Profile Management
+
+---
+
+# 📸 Project Screenshots
+
+### 🏠 Dashboard
+![Dashboard](./src/assets/images/Dashboard.jpeg)
+
+---
+
+### 🤖 AI Health Recommendation
+![AI Recommendation](./src/assets/images/ai.jpeg)
+
+---
+
+### 📅 Appointment Booking
+![Appointment Booking](./src/assets/images/Appointment.jpeg)
+
+---
+
+### 💊 Pharmacy Network
+![Pharmacy Network](./src/assets/images/medicines.jpeg)
+
+---
+
+### 📍 Nearby Hospital Finder
+![Nearby Finder](./src/assets/images/nearby.jpeg)
+
+---
+
+### 🎥 Video Consultation
+![Video Consultation](./src/assets/images/Video_Consulting.jpeg)
 
 ---
 
@@ -157,8 +189,9 @@ VITE_API_BASE_URL=http://localhost:5000/api
 ## Clone Repository
 
 ```bash
-git clone https://github.com/amitkumarmadina/Ehealthcare_Full_Frontend
-cd your-repository-name
+git clone https://github.com/amitkumarmadina/Ehealthcare_Full_Frontend.git
+
+cd Ehealthcare_Full_Frontend
 ```
 
 ## Install Dependencies
@@ -167,7 +200,9 @@ cd your-repository-name
 
 ```bash
 cd server
+
 npm install
+
 npm run dev
 ```
 
@@ -175,7 +210,9 @@ npm run dev
 
 ```bash
 cd client
+
 npm install
+
 npm run dev
 ```
 
@@ -183,7 +220,7 @@ npm run dev
 
 # 🔒 Security
 
-Add to `.gitignore`
+Add the following to `.gitignore`
 
 ```gitignore
 node_modules
@@ -191,14 +228,17 @@ node_modules
 uploads
 dist
 ```
+
 ---
 
-# 🔗 Project Q/A Guide
+# 📘 Documentation & Project Guide
 
-https://drive.google.com/file/d/1Xx9i_4O-qSKDX1kRJj0opPQreq5enrEa/view?usp=drivesdk
+[📄 View Full Documentation](https://drive.google.com/file/d/1Xx9i_4O-qSKDX1kRJj0opPQreq5enrEa/view?usp=drivesdk)
 
 ---
 
 # 👨‍💻 Author
 
 Developed by **Amit Kumar Madina**
+
+- GitHub: https://github.com/amitkumarmadina
